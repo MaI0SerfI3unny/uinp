@@ -1,0 +1,19 @@
+.wrapper{
+  width:auto;
+  position:relative;
+  width:100%;
+}
+.playpause {
+
+  background-repeat:no-repeat;
+  width:25%;
+  height:25%;
+
+  position:absolute;
+  left:12%;
+  right:0%;
+  top:40%;
+  bottom:0%;
+  z-index: 2;
+  background-size:contain;
+}
